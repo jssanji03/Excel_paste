@@ -2,6 +2,8 @@
 
 # [ Paste-from-excel ]
 
+[線上Demo]( https://jssanji03.github.io/Excel_paste/)
+
 必須從 Excel 檔複製欄位後，再到 input 內的任一欄位貼上即可。
 ＃貼上的位置即為表格的初始位置
 
