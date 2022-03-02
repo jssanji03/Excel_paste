@@ -1,4 +1,4 @@
-![GITHUB](https://dl.dropboxusercontent.com/u/2226591/GIT/dojocat.jpg "git圖示")
+![GITHUB](https://github.com/jssanji03/Excel_paste/blob/main/demoPic.png?raw=true "")
 
 # [ Paste-from-excel ]
 
@@ -12,8 +12,16 @@
 - 同上方式選取整行後，點擊第一個刪除可將整行刪除。
   若沒有先選取則無法刪除。
 
-## 其他操作說明
-
+## 相依版本
 ```
-Give examples
+"bootstrap": "^5.1.3"
+"jquery": "^3.6.0"
+"datatables.net-dt": "^1.11.4"
+"datatables.net-keytable-dt": "^2.6.4"
+"datatables.net-responsive-dt": "^2.2.9"
+"datatables.net-select-dt": "^1.3.4"
+```
+css
+```
+"@fortawesome/fontawesome-free": "^6.0.0"
 ```
