@@ -1,0 +1,37 @@
+@import "~bootstrap/scss/bootstrap";
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+@import 'datatables.net-dt/css/jquery.dataTables.css';
+@import 'datatables.net-responsive-dt/css/responsive.dataTables.min';
+@import 'datatables.net-select-dt/css/select.dataTables.min';
+
+/* :: 1.0 Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap');
+
+
+@import "base/reset";
+// *******************
+//     helpers
+// *******************
+@import "helpers/color";
+@import "helpers/fonts";
+@import "helpers/responsive";
+
+// *******************
+//     component
+// *******************
+@import "component/button";
+@import "component/datatable";
+@import "component/sidebar";
+
+// *******************
+//     base
+// *******************
+// @import "base/reboot";
+
+// *******************
+//     pages
+// *******************
+@import "pages/pasteExcel";
+
